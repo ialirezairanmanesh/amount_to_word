@@ -349,7 +349,7 @@ CurrencyConfig.canadianDollar
 ```dart
 // Turkish Lira
 CurrencyConfig.turkishLira
-// Persian: لیر/کوروش, English: lira/kurus, Turkish: lira/kuruş
+// Persian: لیر/قروش, English: lira/kurus, Turkish: lira/kuruş
 
 // Afghan Afghani (No Decimals)
 CurrencyConfig.afghanAfghani

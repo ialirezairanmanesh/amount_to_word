@@ -48,7 +48,7 @@ Transform numbers into human-readable text across multiple languages and currenc
 | **US Dollar** | ✅ | دلار/سنت | dollar/cent | dolar/sent | $123.45 |
 | **Euro** | ✅ | یورو/سنت | euro/cent | euro/sent | €89.99 |
 | **Canadian Dollar** | ✅ | دلار کانادا/سنت | canadian dollar/cent | kanada doları/sent | C$1,234.56 |
-| **Turkish Lira** | ✅ | لیر/کوروش | lira/kurus | lira/kuruş | ₺567.89 |
+| **Turkish Lira** | ✅ | لیر/قروش | lira/kurus | lira/kuruş | ₺567.89 |
 | **Afghan Afghani** | ❌ | افغانی | afghani | afgani | ۵۰,۰۰۰ افغانی |
 
 ### 🔍 Currency Details

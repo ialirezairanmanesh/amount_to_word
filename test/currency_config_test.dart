@@ -101,7 +101,7 @@ void main() {
         expect(CurrencyConfig.turkishLira.getMainUnit(Language.en), 'lira');
         expect(CurrencyConfig.turkishLira.getMainUnit(Language.tr), 'lira');
         
-        expect(CurrencyConfig.turkishLira.getSubUnit(Language.fa), 'کوروش');
+        expect(CurrencyConfig.turkishLira.getSubUnit(Language.fa), 'قروش');
         expect(CurrencyConfig.turkishLira.getSubUnit(Language.en), 'kurus');
         expect(CurrencyConfig.turkishLira.getSubUnit(Language.tr), 'kuruş');
       });

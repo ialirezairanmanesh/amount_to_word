@@ -157,7 +157,7 @@ class CurrencyConfig {
       Language.tr: 'lira',
     },
     subUnits: {
-      Language.fa: 'کوروش',
+      Language.fa: 'قروش',
       Language.en: 'kurus',
       Language.tr: 'kuruş',
     },
