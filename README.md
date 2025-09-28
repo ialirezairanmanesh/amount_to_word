@@ -495,9 +495,9 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and migration guides.
 
 ## 🏢 Supported by
 
-This package is proudly supported by **[فاکتور فیدا](https://cafebazaar.ir/app/com.MohammadHosseinShabani.factor)** - The most professional and user-friendly invoice application in Iran.
+This package is proudly supported by **[Fida Invoice](https://cafebazaar.ir/app/com.MohammadHosseinShabani.factor)** - The most professional and user-friendly invoice application in Iran.
 
-**فاکتور فیدا** is an award-winning invoice application that makes creating professional invoices simple, fast, and hassle-free. With features like:
+**Fida Invoice** is an award-winning invoice application that makes creating professional invoices simple, fast, and hassle-free. With features like:
 
 - 🎨 **Custom Branding**: Add your logo, corporate colors, and custom headers
 - 🔏 **Legal Validity**: Add stamps and signatures directly from the app
@@ -507,7 +507,7 @@ This package is proudly supported by **[فاکتور فیدا](https://cafebazaa
 - 📁 **Smart Storage**: Save and retrieve frequently used invoices
 - 📤 **Professional Export**: Image or text output for easy sharing
 
-Download **فاکتور فیدا** from [Cafe Bazaar](https://cafebazaar.ir/app/com.MohammadHosseinShabani.factor) and experience the future of invoice management!
+Download **Fida Invoice** from [Cafe Bazaar](https://cafebazaar.ir/app/com.MohammadHosseinShabani.factor) and experience the future of invoice management!
 
 ---
 

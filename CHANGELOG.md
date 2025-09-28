@@ -8,8 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.1] - 2024-12-19
 
 ### Added
-- **Support Section**: Added support section for فاکتور فیدا app in README
-- **Partnership**: Official partnership with فاکتور فیدا - professional invoice application
+- **Support Section**: Added support section for Fida Invoice app in README
+- **Partnership**: Official partnership with Fida Invoice - professional invoice application
 
 ## [2.0.0] - 2024-01-XX
 
