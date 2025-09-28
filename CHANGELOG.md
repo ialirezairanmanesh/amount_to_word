@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.2] - 2024-12-19
+
+### Fixed
+- **Turkish Currency**: Fixed "kurus" to "kuruş" in Turkish Lira sub-unit name
+- **App Name**: Updated partner app name to "Fida Invoice" in English
+
 ## [2.0.1] - 2024-12-19
 
 ### Added
