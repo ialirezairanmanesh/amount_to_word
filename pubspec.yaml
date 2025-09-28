@@ -1,6 +1,6 @@
 name: amount_to_word
 description: A comprehensive Flutter package for converting numbers and amounts to words in multiple languages (Persian, English, Turkish) with full currency support and smart pluralization.
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/ialirezairanmanesh/amount_to_word
 repository: https://github.com/ialirezairanmanesh/amount_to_word
 issue_tracker: https://github.com/ialirezairanmanesh/amount_to_word/issues
